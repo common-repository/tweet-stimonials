@@ -1,0 +1,25 @@
+/***
+(SPYR) Tweet-stimonials
+
+SPYR Media
+http://spyr.me
+*/
+
+
+.tweetstimonial_tweet { clear:both;display:block;font-size:1.0em;margin:0 0 35px 0;padding:0; }
+.tweetstimonial_content { padding:0 5px 12px 5px;text-align:center; }
+.tweetstimonial_user { font-weight:700; }
+.tweetstimonial_name { background:url("images/sprites.png") right 0 no-repeat;font-size:0.9em;font-weight:600;line-height:1.0em;padding-top:14px;text-align:right;vertical-align:top; }
+.tweetstimonial_name.has-avatar { line-height:26px; }
+.tweetstimonial_name a { display:block; }
+.tweetstimonial_avatar { float:right;height:25px;margin:0 0 0 10px;width:25px; }
+.tweetstimonial_avatar { /*CSS3*/-webkit-border-radius:1px;border-radius:1px; }
+.tweetstimonial_links { background:transparent;font-size:0.95em;text-align:center; }
+.tweetstimonial_error { text-align:center; }
+.tweetstimonial_error div { margin-top:5px; }
+.tweetstimonial_error a { background:#990000;color:#fff;display:inline-block;padding:1px 5px; }
+.tweetstimonial_error a { /*CSS3*/-moz-transition:background 0.5s;-o-transition:background 0.5s;-webkit-transition:background 0.5s;transition:background 0.5s; }
+.tweetstimonial_error a:hover { background:#cc0000;text-decoration:none; }
+
+
+

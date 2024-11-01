@@ -1,0 +1,68 @@
+/***
+(SPYR) Icons
+Spyr Media
+http://spyr.me
+
+Changelog:
+* Added BYLT Icon
+*/
+
+
+@font-face {
+	font-family:'SPYR-Icons';
+	src:url('http://thm.spyr.me/0.95/SPYR-Icons.eot');
+	src:url('http://thm.spyr.me/0.95/SPYR-Icons.eot?#iefix') format('embedded-opentype'),
+		url('http://thm.spyr.me/0.95/SPYR-Icons.svg#SPYR-Icons') format('svg'),
+		url('http://thm.spyr.me/0.95/SPYR-Icons.woff') format('woff'),
+		url('http://thm.spyr.me/0.95/SPYR-Icons.ttf') format('truetype');
+	font-style:normal;
+	font-weight:normal;
+	}
+
+
+
+/*** Icons */
+.icon-spyrmedia:before,.icon-inspyr:before,.icon-perspyr:before,.icon-six4eleven:before,.icon-spyrloves:before,.icon-tru:before,.icon-twitter:before,.icon-facebook:before,.icon-facebook-2:before,.icon-gplus:before,.icon-linkedin:before,.icon-pinterest:before,.icon-instagram:before,.icon-flickr:before,.icon-youtube:before,.icon-youtube-2:before,.icon-vimeo:before,.icon-soundcloud:before,.icon-rss:before,.icon-mail:before,.icon-mail-2:before,.icon-play:before,.icon-pause:before,.icon-left_arrow:before,.icon-right_arrow:before,.icon-move:before,.icon-speech:before,.icon-tack:before,.icon-pencil:before,.icon-flag:before,.icon-print:before,.icon-heart:before,.icon-cart:before,.icon-trash:before,.icon-gear:before,.icon-power:before,.icon-plus:before,.icon-minus:before,.icon-check:before,.icon-paper:before,.icon-star:before,.icon-connect:before,.icon-bylt:before { font-family:'SPYR-Icons';font-style:normal;font-weight:normal;line-height:1;speak:none;-webkit-font-smoothing:antialiased; }
+.icon-spyrmedia:before { content:"\e000"; }
+.icon-inspyr:before { content:"\e001"; }
+.icon-perspyr:before { content:"\e002"; }
+.icon-six4eleven:before { content:"\e003"; }
+.icon-spyrloves:before { content:"\e004"; }
+.icon-tru:before { content:"\e028"; }
+.icon-twitter:before { content:"\e005"; }
+.icon-facebook:before { content:"\e006"; }
+.icon-facebook-2:before { content:"\e007"; }
+.icon-gplus:before { content:"\e008"; }
+.icon-linkedin:before { content:"\e009"; }
+.icon-pinterest:before { content:"\e00a"; }
+.icon-instagram:before { content:"\e00b"; }
+.icon-flickr:before { content:"\e00c"; }
+.icon-youtube:before { content:"\e00d"; }
+.icon-youtube-2:before { content:"\e00e"; }
+.icon-vimeo:before { content:"\e00f"; }
+.icon-soundcloud:before { content:"\e027"; }
+.icon-rss:before { content:"\e010"; }
+.icon-mail:before { content:"\e011"; }
+.icon-mail-2:before { content:"\e012"; }
+.icon-play:before { content:"\e013"; }
+.icon-pause:before { content:"\e014"; }
+.icon-left_arrow:before { content:"\e015"; }
+.icon-right_arrow:before { content:"\e016"; }
+.icon-move:before { content:"\e017"; }
+.icon-speech:before { content:"\e018"; }
+.icon-tack:before { content:"\e019"; }
+.icon-pencil:before { content:"\e01a"; }
+.icon-flag:before { content:"\e01b"; }
+.icon-print:before { content:"\e01c"; }
+.icon-heart:before { content:"\e01d"; }
+.icon-cart:before { content:"\e01e"; }
+.icon-trash:before { content:"\e01f"; }
+.icon-gear:before { content:"\e020"; }
+.icon-power:before { content:"\e021"; }
+.icon-plus:before { content:"\e022"; }
+.icon-minus:before { content:"\e023"; }
+.icon-check:before { content:"\e024"; }
+.icon-paper:before { content:"\e025"; }
+.icon-star:before { content:"\e026"; }
+.icon-connect:before { content:"\e029"; }
+.icon-bylt:before { content:"\e02a"; }
